@@ -1,0 +1,8 @@
+{
+    "houses": [
+    { "Name":"Gryffindor" },
+    { "Name":"Hufflepuff" },
+    { "Name":"Ravenclaw" },
+    { "Name":"Slytherin" }
+    ]
+    }

@@ -1,0 +1,6 @@
+Flask
+bson
+pymongo
+Flask-Cors
+flask-login
+jsonlib-python3
